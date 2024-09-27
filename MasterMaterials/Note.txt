@@ -1,0 +1,4 @@
+First create these two Material Functions then save.
+Create the Material and paste the M_Master code.
+
+Use Material Attributes use this function to connect the results.
